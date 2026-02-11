@@ -1,0 +1,2 @@
+La faille XSS permet d'injecter du JavaScript malveillant.
+Vol de cookies, détournement de session.
